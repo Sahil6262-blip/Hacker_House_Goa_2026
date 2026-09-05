@@ -99,7 +99,7 @@ The exact folder structure will evolve as new tasks and challenges are released.
 |---|---|---|---|---|
 | Task 01 | [Docs](https://docs.google.com/document/d/1RgrIWTVHjG6-qfAVjgcbjj7Mn5yCo_5mBEHPoFdkrKY/edit?usp=sharing) | ✅  Pending | [Website](https://hacker-house-goa-2026-orcin.vercel.app/) | [Github](https://github.com/RamzanKhansLab/Hacker_House_Goa_2026/tree/main/Task_1) |
 | Task 02 | TBD | 🔲 Pending | — | — |
-| Task 03 | TBD | 🔲 Pending | — | — |
+| Task 03 | FaceProof — consent-based face evidence, genuine visual-search integration, SHA-256 provenance fingerprinting, and a tamper-evident proof ledger | 🔲 In development | [Local setup](Task_3/README.md) | [Source](Task_3/) |
 | Task 04 | TBD | 🔲 Pending | — | — |
 
 > Task entries will be updated as challenges are released.
